@@ -52,7 +52,7 @@ Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna m
 
 Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.
 
-{% gist 4cd26db2254c4c5a53adcf0ac1e63044 gist.md %}
+{% gist 4cd26db2254c4c5a53adcf0ac1e63044 %}
 
 
 
