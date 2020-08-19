@@ -13,7 +13,7 @@ title: Patch Mutiple SQL Server Instances with dbatools
 
 
 
-{% gist 4cd26db2254c4c5a53adcf0ac1e63044734b5389b8c9242a0599aa03a4868640 %}
+{% gist 734b5389b8c9242a0599aa03a4868640 %}
 
 
 
