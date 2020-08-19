@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-gem: [jekyll-paginate, jekyll-gists]
 
 # Setup
 title:            maxdop
