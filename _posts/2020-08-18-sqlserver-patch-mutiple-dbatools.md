@@ -1,19 +1,14 @@
 ---
 layout: post
-title: Patch Mutiple SQL Server Instances with dbatools
+title: SQL Server bulk patching.
 ---
 
 
 <div class="message">
-  This is an  blog post that shows several types of HTML content supported in this theme.
+  A simple way to patch multiple sql server instances concurrently. 
 </div>
 
-
-### Gists via GitHub Pages
-
-
-
-{% gist 4cd26db2254c4c5a53adcf0ac1e63044734b5389b8c9242a0599aa03a4868640 %}
+{% gist 734b5389b8c9242a0599aa03a4868640 %}
 
 
 
